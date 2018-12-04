@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">26812885</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>1</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>1</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CDK9 inhibitors selectively target estrogen receptor-positive breast cancer cells through
+			combined inhibition of MYB and MCL-1 expression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.18632/oncotarget.6997</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Our previous studies showed that MYB is required for proliferation of,
+				and confers protection against apoptosis on, estrogen receptor-positive (ER+ve) breast cancer cells, which are almost 
+				invariably also MYB+ve. We have also shown that MYB expression in ER+ve breast cancer cells is regulated at the level of
+				transcriptional elongation and as such, is suppressed by CDK9i. Here we examined the effects of CDK9i on breast cancer cells 
+				and the involvement of MYB in these effects. ER+ve breast cancer cell lines including MCF-7 were much more sensitive (&gt; 10 times) 
+				to killing by CDK9i than ER-ve/MYB-ve cells. Moreover, surviving cells showed a block at the G2/M phase of the cell cycle. Importantly,
+				ectopic MYB expression conferred resistance to apoptosis induction, cell killing and G2/M accumulation. Expression of relevant MYB 
+				target genes including BCL2 and CCNB1 was suppressed by CDK9 inhibition, and this too was reversed by ectopic MYB expression. 
+				Nevertheless, inhibition of BCL2 alone either by MYB knockdown or by ABT-199 treatment was insufficient for significant induction 
+				of apoptosis. Further studies implied that suppression of MCL-1, a well-documented target of CDK9 inhibition, was additionally 
+				required for apoptosis induction, while maximal levels of apoptosis induced by CDK9i are likely to also involve inhibition of BCL2L1
+				expression. Taken together these data suggest that MYB regulation of BCL2 underlies the heightened sensitivity of ER+ve compared to
+				ER-ve breast cancer cells to CDK9 inhibition, and that these compounds represent a potential therapeutic for ER+ve breast cancers 
+				and possibly other MYB-dependent cancers.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Mitra</LastName>
+                    <ForeName>Partha</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, University of Queensland, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Yang</LastName>
+                    <ForeName>Ren-Ming</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, University of Queensland, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sutton</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Novartis Institute for Biomedical Research, Emeryville, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Ramsay</LastName>
+                    <ForeName>Robert G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Peter MacCallum Cancer Centre, Melbourne, VIC, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sir Peter MacCallum Dept. of Oncology, University of Melbourne, Melbourne, VIC, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gonda</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, University of Queensland, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CDK9 inhibitors</Keyword>
+            <Keyword MajorTopicYN="N">MYB</Keyword>
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">transcription pausing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">6997</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.6997</ArticleId>
+            <ArticleId IdType="pubmed">26812885</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
